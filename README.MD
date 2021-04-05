@@ -24,3 +24,6 @@ A __link__ to Coming Soon Page is added to __portfolio page__
 
 1. Webpage is responsive (width, height)
 1. Mobile Device shows only days
+1. Has a [bird icon](https://www.cleanpng.com/png-bird-watercolor-painting-drawing-pastel-oiseauxbir-6243312/preview.html) 
+
+
